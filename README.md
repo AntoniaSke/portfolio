@@ -1,6 +1,6 @@
 # 🌐 Personal Portfolio
 
-Live Demo: https://antoniaske.github.io/your-repo-name/
+Live Demo:  https://antoniaske.github.io/portfolio/
 
 This repository contains my personal portfolio website, where I showcase my work, skills, and experience as a front-end developer.
 
