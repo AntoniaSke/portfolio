@@ -30,7 +30,7 @@ With a background in IT as a NOC engineer, I bring problem-solving skills, atten
 ## 📬 Contact
 
 * GitHub: https://github.com/AntoniaSke
-* LinkedIn: https://www.linkedin.com/in/antonia-skevaki-68a118218
+* LinkedIn: www.linkedin.com/in/antonia-skevaki-68a118218
 * Email: [antonia.skevaki@gmail.com](mailto:antonia.skevaki@gmail.com)
 
 ---
