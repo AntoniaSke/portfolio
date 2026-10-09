@@ -54,6 +54,7 @@ My background in production troubleshooting and monitoring has strengthened my p
 
 The portfolio includes projects such as:
 
+- **Bidora** — full-stack auction marketplace with real-time bidding, built with Next.js, Express, and PostgreSQL
 - **TutorMatch** — tutor discovery and lesson booking interface built with React
 - **Voyage Weather Map** — interactive geospatial application using React, TypeScript, Leaflet, and weather APIs
 - **IP Subnet Calculator** — networking utility for subnet calculations
